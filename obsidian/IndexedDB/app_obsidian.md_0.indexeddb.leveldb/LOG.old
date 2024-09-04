@@ -1,0 +1,11 @@
+2024/09/02-17:21:08.940 4c4f Reusing MANIFEST /home/nachvorn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/02-17:21:08.940 4c4f Recovering log #60
+2024/09/02-17:21:08.946 4c4f Reusing old log /home/nachvorn/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000060.log 
+2024/09/02-17:21:09.713 4c50 Compacting 1@1 + 2@2 files
+2024/09/02-17:21:09.740 4c50 Generated table #63@1: 4684 keys, 2135006 bytes
+2024/09/02-17:21:09.751 4c50 Generated table #64@1: 3821 keys, 1187701 bytes
+2024/09/02-17:21:09.751 4c50 Compacted 1@1 + 2@2 files => 3322707 bytes
+2024/09/02-17:21:09.755 4c50 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/02-17:21:09.756 4c50 Delete type=2 #58
+2024/09/02-17:21:09.756 4c50 Delete type=2 #59
+2024/09/02-17:21:09.756 4c50 Delete type=2 #61
